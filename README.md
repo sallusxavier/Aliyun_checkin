@@ -7,8 +7,8 @@ Instruction:
 
 Github Action:
 
-1 https://www.jianshu.com/p/2deed352023b
+1. [简书-白嫖Github Action做定时任务](https://www.jianshu.com/p/2deed352023b)
 
-2 https://zhuanlan.zhihu.com/p/164744104
+2. [知乎-Github Action 精华指南](https://zhuanlan.zhihu.com/p/164744104)
 
-3 https://blog.csdn.net/qq_40748336/article/details/110749375
+3. [CSDN-基于GITHUB ACTION的定时任务，真香！](https://blog.csdn.net/qq_40748336/article/details/110749375)
