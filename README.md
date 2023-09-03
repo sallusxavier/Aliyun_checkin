@@ -12,6 +12,8 @@ Latest Update：
 Instruction:
 
 [吾爱破解-无需服务器实现阿里云盘自动签到并推送消息](https://www.52pojie.cn/thread-1757911-1-1.html)
+
+https://imyrs.cn/posts/2023/auto-signin-aliyundrive-by-using-github-action/
   
 
 
